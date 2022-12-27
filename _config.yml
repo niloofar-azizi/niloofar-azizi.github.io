@@ -1,0 +1,16 @@
+title: mralinp
+email: alinaderiparizi@gmail.com
+description: My awesome blog
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://alinaderiparizi.ir" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: alinaderiparizi
+github_username:  mralinp
+
+paginate: 6
+paginate_path: "/page:num/"
+
+# Build settings
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
