@@ -4,7 +4,6 @@ title: About
 permalink: /resume
 ---
 
-
 <!-- ======= Resume Section ======= -->
 <section id="resume" class="resume">
     <div class="container">
@@ -87,61 +86,48 @@ permalink: /resume
             <h2>Skills</h2>
             <!-- <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p> -->
         </div>
-
         <div class="row skills-content">
-
             <div class="col-lg-6" data-aos="fade-up">
-
-            <div class="progress">
-                <span class="skill">Atlassian JIRA<i class="val">80%</i></span>
-                <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress">
+                    <span class="skill">Atlassian JIRA<i class="val">80%</i></span>
+                    <div class="progress-bar-wrap">
+                        <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+                    </div>
+                    </div>
+                        <div class="progress">
+                            <span class="skill">Python programming<i class="val">45%</i></span>
+                            <div class="progress-bar-wrap">
+                            <div class="progress-bar" role="progressbar" aria-valuenow="45" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                        </div>
+                        <div class="progress">
+                            <span class="skill">Searching Skills in Finance, IT, Fintech<i class="val">90%</i></span>
+                            <div class="progress-bar-wrap">
+                            <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                        </div>
+                    </div>
+                <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+                <div class="progress">
+                    <span class="skill">Database (SQL, Mongo, etc.) <i class="val">40%</i></span>
+                    <div class="progress-bar-wrap">
+                    <div class="progress-bar" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100"></div>
+                    </div>
+                </div>
+                <div class="progress">
+                    <span class="skill">Business process management <i class="val">60%</i></span>
+                    <div class="progress-bar-wrap">
+                    <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
+                    </div>
+                </div>
+                <div class="progress">
+                    <span class="skill">RapidMiner <i class="val">45%</i></span>
+                    <div class="progress-bar-wrap">
+                    <div class="progress-bar" role="progressbar" aria-valuenow="45" aria-valuemin="0" aria-valuemax="100"></div>
+                    </div>
                 </div>
             </div>
-
-            <div class="progress">
-                <span class="skill">Python programming<i class="val">45%</i></span>
-                <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="45" aria-valuemin="0" aria-valuemax="100"></div>
-                </div>
-            </div>
-
-            <div class="progress">
-                <span class="skill">Searching Skills in Finance, IT, Fintech<i class="val">90%</i></span>
-                <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
-                </div>
-            </div>
-
-            </div>
-
-            <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
-
-            <div class="progress">
-                <span class="skill">Database (SQL, Mongo, etc.) <i class="val">40%</i></span>
-                <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100"></div>
-                </div>
-            </div>
-
-            <div class="progress">
-                <span class="skill">Business process management <i class="val">60%</i></span>
-                <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
-                </div>
-            </div>
-
-            <div class="progress">
-                <span class="skill">RapidMiner <i class="val">45%</i></span>
-                <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="45" aria-valuemin="0" aria-valuemax="100"></div>
-                </div>
-            </div>
-
-            </div>
-
         </div>
-
     </div>
 </section>
 <!-- End Skills Section -->

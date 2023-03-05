@@ -4,7 +4,7 @@ title: Blog
 ---
 
 <!-- ======= Portfolio Section ======= -->
-<section id="blog" class="portfolio section-bg">
+<section id="blog" class="portfolio">
     <div class="container">
         <div class="section-title">
             <h2>Blog</h2>
@@ -12,7 +12,7 @@ title: Blog
         </div>
         <div class="row" data-aos="fade-up">
             <div class="col-lg-12 d-flex justify-content-center">
-            <ul id="portfolio-flters">
+            <ul id="portfolio-flters" style="background: #eee;">
                 <li data-filter="*" class="filter-active">All</li>
                 <li data-filter=".filter-academic">Academic</li>
                 <li data-filter=".filter-book">Book</li>
